@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=HellWorld
+comment1.params=
+comment1.target=HellWorld()
+comment10.params=
+comment10.target=boolean\ isGameOver()
+comment11.params=
+comment11.target=void\ spawnCoins()
+comment12.params=
+comment12.target=void\ dragonDefeated()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ initializeBackgroundImages()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ backsoundEffect()
+comment6.params=
+comment6.target=void\ updateBackground()
+comment7.params=
+comment7.target=void\ checkGameOver()
+comment8.params=
+comment8.target=void\ gameOver()
+comment9.params=
+comment9.target=void\ gameWinner()
+numComments=13
